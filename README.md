@@ -7,3 +7,4 @@
 ## passo 4 no cmd digite: code . (ira abrir o vs code)
 ## passo 5 agora vc pode editar a pasta ao editar para salvar digite: git commit -m (Nome do commit)
 ## passo 6 agora para colocar no Github vc digita: git push -u origin main 
+## passo 7 para puxar o arquivo para o seu pc vc digita: git pull
